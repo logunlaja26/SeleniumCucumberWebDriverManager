@@ -12,8 +12,10 @@ target/
 *.iws
 *.iml
 *.ipr
-!pom.xml
-*.xml
+vcs.xml
+encodings.xml
+codeStyleConfig.xml
+misc.xml
 
 ### Eclipse ###
 .apt_generated
